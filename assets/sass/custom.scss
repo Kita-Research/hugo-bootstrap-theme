@@ -38,8 +38,7 @@ blockquote {
 
 .callout-danger {
     --bd-callout-bg: rgba(var(--bs-danger-rgb), .075);
-    --bd-callout-border: rgba(var(--bs-danger-rgb), .5)
-}
+    --bd-callout-border: rgba(var(--bs-danger-rgb), .5)} 
 
 .feather {
     width: 1em;
@@ -56,17 +55,23 @@ blockquote {
     height: 4em;
 }
 
-a /*.feather*/ {
-    $twitter-blue: #55acee;
-    $github-black: #000;
 
-    .feather-twitter:hover {
-        stroke: $twitter-blue;
-        fill: $twitter-blue;
-    }
+.row { 
+    margin-bottom: 1rem;
+} 
 
-    .feather-github:hover {
-        stroke: $github-black;
-        fill: $github-black;
-    }
+.spacer-header {
+    margin-top: 1rem;
 }
+
+.spacer-number {
+    margin-bottom: 3rem;
+}
+
+.spacer-section {
+    margin-bottom: 4rem;
+}
+
+.spacer-small {
+    margin-bottom: 2rem;
+} 

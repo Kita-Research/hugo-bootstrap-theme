@@ -8,4 +8,6 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Contact the team at [hello@getkita.com](mailto:hello@getkita.com) 
+
+Use this <<form>> to sign-up to indicate your interest in the study.

@@ -1,11 +1,11 @@
-baseURL = 'https://ks4research.netlify.app'
-title = "Kita Key Stage 4 Research"
-author = "Fiona MacNeill"
+baseURL = 'https://ks3to5research.netlify.app'
+title = "Key Stage 3 to 5 Research"
+author = "Kita Education Limited"
 copyright = "Kita Education Limited. Copyright © 2026"
 
 timeZone = 'Europe/London'
 
-# Multilingual
+# Language
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 

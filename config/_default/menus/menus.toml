@@ -1,0 +1,10 @@
+[[main]]
+name = "Home"
+url = ""
+weight = 10
+
+[[main]]
+identifier = "docs"
+name = "Docs"
+url = "docs"
+weight = 50 
