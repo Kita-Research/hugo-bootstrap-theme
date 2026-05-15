@@ -7,134 +7,144 @@ menu:
     weight: 10
 ---
 
-# Contributor Covenant Code of Conduct
+# Kita Education, Ltd. Terms of Use for the Key Stage 3–5 Research Site 
 
-## Our Pledge
+**Last updated:** 10.05.2026
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+Please read these Terms and Conditions carefully before using the Key Stage 3–5 Research Site, henceforth referred to as the “Research Site”. 
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+By accessing or using the Research Site, you agree to be bound by these Terms and Conditions. If you do not agree, you must not use the platform. 
 
-## Our Standards
+**1. Definitions** 
+    - **"Kita", "we", "us", "our":** Kita Education Ltd, company number 13264075 
+    - **"Research Site" or "Service":** The Kita temporary research website, provided solely for authorized users to view participant information for a specific research project.
+    - **"User":** Any individual accessing or using the Research Site, typically students and educators who are prospective participants or active participants in the Key Stage 3–5 Research study. 
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+**2. About Us** 
+Kita Education Ltd is registered in England and Wales under company number 13264075.
+Registered office: 43 Great Western Studios, Alfred Road, London, England, W2 5EU
+Main trading address: 65 Alfred Road, London W2 5EU
+Contact: [hello@getkita.com](mailto:hello@getkita.com) 
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall
-  community
+**3. Acceptance of Terms** 
+These Terms apply to all users of the Research Site and incorporate our Privacy Policy and Acceptable Use Policy. 
 
-Examples of unacceptable behavior include:
+**4. Access to the Key Stage 3–5 Research site**  
+**4.1 Service Availability** 
+The Research Site is provided free of charge for a limited research period. We do not guarantee uninterrupted access.
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+We do not guarantee uninterrupted access. The platform may be unavailable due to:
+- Scheduled maintenance
+- Technical issues
+- Circumstances beyond our control 
 
-## Enforcement Responsibilities
+We may suspend, modify, or discontinue any part of the Research Site at any time with reasonable notice to Users. 
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+**4.2 Technical Requirements** 
+Users are responsible for:
+- Having internet access and compatible devices
+- Using supported web browsers
+- Ensuring compliance with their school's IT policies
 
-## Scope
+5. Acceptable Use
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+**5.1 Permitted Use** 
+The sole permitted use of the Research Site is for individuals to view participant information for the purposes of the research study. No other use, interaction, or activity is permitted.
 
-## Enforcement
+**5.2 Prohibited Conduct**
+Users must NOT:
+- Introduce viruses, malware, or malicious code
+- Attempt to disrupt or damage the platform
+- Violate any applicable laws or regulations
+- Share access credentials with unauthorised users
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement by [contacting the project team](/contact/).
-All complaints will be reviewed and investigated promptly and fairly.
+**5.3 Consequences of Violations**
+Violations of these Terms may result in:
+- Warning from the Kita team
+- Temporary or permanent suspension of account
+- Removal of content
+- Notification to school authorities
+- Legal action if appropriate 
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+**6. Intellectual Property**
+**6.1 Kita Intellectual Property** 
+Kita owns all intellectual property rights in:
+- The Kita platform and its features
+- Platform design, graphics, and user interface
+- Kita branding and logos
+- Documentation and materials created by Kita
+These rights are protected by copyright, trademark, and other intellectual property laws.
 
-## Enforcement Guidelines
+**8. Privacy and Data Protection**
+Our Privacy Policy explains how we handle personal data. Key points:
+- We collect personal data solely for the purposes of the research study as detailed in our Privacy Policy
+- Student data is never sold or used for marketing
+By using Kita, you consent to data processing as described in the Privacy Policy.
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+**9. Limitation of Liability**
+**9.1 Service Provision**
+Kita is provided "as is" without warranties of any kind. We do not guarantee:
+- Uninterrupted or error-free service
+- Compatibility with all devices or browsers
+- Freedom from bugs or technical issues
 
-### 1. Correction
+**9.2 Exclusions and Limitations**
+Nothing in these Terms excludes liability for:
+- Death or personal injury from negligence
+- Fraud or fraudulent misrepresentation
+- Any liability that cannot be excluded under English law
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+Subject to the above, we are not liable for:
+- Indirect or consequential losses
+- Loss of profits, business, or revenue
+- Damage from viruses or malicious code
+- Actions of other users
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**9.3 User Responsibility**
+Users are responsible for:
+- Backing up important work
+- Using appropriate virus protection
+- Complying with school policies
+- Their own conduct on the platform
 
-### 2. Warning
+**10. Changes to Terms**
+We may update these Terms from time to time. Changes will be posted on our website, and schools will be notified of significant changes. 
 
-**Community Impact**: A violation through a single incident or series of
-actions.
+Continued use of the Research Site after changes constitutes acceptance of the updated Terms. 
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+**11. Termination**
+The Research Site is a temporary environment provided for the duration of the research study.
 
-### 3. Temporary Ban
+We may suspend or terminate access if:
+- These Terms are violated
+- Account activity appears suspicious or fraudulent
+- We discontinue the service
+Upon termination, access to user work will be provided as agreed with the school.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+Following termination, student data will be deleted or returned to the school in accordance with the Privacy Policy and the school’s instructions.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**12. Third-Party Links and Services** 
+The Research Site may contain links to third-party websites (e.g., Google Forms). We are not responsible for the content or practices of third parties.
+ 
+**13. Governing Law and Jurisdiction** 
+These Terms are governed by English law. <br/>
+For consumers: Courts of England and Wales have non-exclusive jurisdiction. Residents of Northern Ireland may bring proceedings in Northern Ireland; residents of Scotland may bring proceedings in Scotland. <br />
+For businesses: Courts of England and Wales have exclusive jurisdiction. <br /> 
 
-### 4. Permanent Ban
+**14. Contact Information** 
+For questions about these Terms, contact: <br />
+Kita Education Ltd <br />
+Email: [hello@getkita.com](mailto:hello@getkita.com) <br />
+Address: 65 Alfred Road, London, W2 5EU <br />
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Thank you for using the Research Site!** <br />
+_Together, we're building the future of coding education._
 
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
 
-## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
 
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+
+
