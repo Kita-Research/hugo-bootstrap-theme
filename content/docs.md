@@ -103,8 +103,8 @@ draft: false
 <h2 class="h3">Policies</h3> 
 <ul class="list-group">
 <li class="list-group-item"><a href="/documents/Kita Education_Terms and Conditions.pdf" target="_blank" rel="noreferrer">Terms and Conditions (Kita for Schools)</a> (PDF: 127 KB)</li> 
-<li class="list-group-item"><a href="" target="_blank" rel="noreferrer">Privacy Policy (Kita for Schools)</a> (PDF: 164KB)</li> 
-<li class="list-group-item"><a href="/documents/Privacy Policy_Kita_v3 22.02.20.pdf" target="_blank" rel="noreferrer"> Privacy Policy (Open Kita)</a></li>
+<li class="list-group-item"><a href="/documents/Privacy Policy_Kita_v3 22.02.20.pdf" target="_blank" rel="noreferrer">Privacy Policy (Kita for Schools)</a> (PDF: 164KB)</li> 
+<li class="list-group-item"><a href="https://www.getkita.org/privacy-policy-open-kita" target="_blank" rel="noreferrer"> Privacy Policy (Open Kita)</a></li>
 </div>
 </div> 
 <div class="row justify-content-left mt-lg-12"> 
