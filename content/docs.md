@@ -63,7 +63,7 @@ draft: false
         <li>Summaries for schools and teachers</li>
         </ul>
 </div> 
-
+&nbsp;
 
 <h2 id="team" class="spacer-small">Research team</h2> 
 <h3 class="spacer-small" style="background-color: #ca3544; padding: 2%; border-radius: 8px; color: #FFF;">University of Brighton</h3> 
@@ -93,10 +93,13 @@ draft: false
 <p>Last updated: 14 May 2026</p>
 <div class="row justify-content-left mt-lg-12 spacer-header"> 
 <div class="col-lg-6"> 
-<h2 class="h3">Participant Information Sheets</h3> 
+<h2 class="h3">Participant Information</h3> 
 <ul class="list-group spacer-small">
 <li class="list-group-item"><a href="/documents/PIS Kita evaluation - teachers DRAFT.pdf" target="_blank">Teachers and School Leaders</a> (PDF: 184 KB)</li> 
-<li class="list-group-item"><a href="/documents/PIS Kita evaluation - parents DRAFT.pdf" target="_blank">Parents and Students</a>  (PDF: 184 KB)</li>
+<li class="list-group-item"><a href="/static/documents/Consent Kita-teachers leaders DRAFT.pdf" target="_blank">Teachers and School Leaders: Consent Form</a> <br /> (PDF: 131 KB)</li> 
+<li class="list-group-item"><a href="/documents/PIS Kita evaluation - parents DRAFT.pdf" target="_blank">Parents and Students</a>  (PDF: 184 KB)</li> 
+<li class="list-group-item"><a href="/documents/Consent Kita-parents DRAFT.pdf" target="_blank">Parents: Consent Form</a>  (PDF: 131 KB)</li> 
+<li class="list-group-item"><a href="/documents/Consent Kita-students DRAFT.pdf" target="_blank">Students: Consent Form</a>  (PDF: 131 KB)</li>
 </ul>
 </div> 
 <div class="col-lg-6"> 
@@ -104,7 +107,7 @@ draft: false
 <ul class="list-group">
 <li class="list-group-item"><a href="/documents/Kita Education_Terms and Conditions.pdf" target="_blank" rel="noreferrer">Terms and Conditions (Kita for Schools)</a> (PDF: 127 KB)</li> 
 <li class="list-group-item"><a href="/documents/Privacy Policy_Kita_v3 22.02.20.pdf" target="_blank" rel="noreferrer">Privacy Policy (Kita for Schools)</a> (PDF: 164KB)</li> 
-<li class="list-group-item"><a href="https://www.getkita.org/privacy-policy-open-kita" target="_blank" rel="noreferrer"> Privacy Policy (Open Kita)</a></li>
+<li class="list-group-item"><a href="https://www.getkita.org/privacy-policy-open-kita" target="_blank" rel="noreferrer"> Privacy Policy (Open Kita)</a> - on main <a href="https://www.getkita.org/" target="blank" rel="noreferrer">Kita website</a></li>
 </div>
 </div> 
 <div class="row justify-content-left mt-lg-12"> 
