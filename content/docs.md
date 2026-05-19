@@ -96,7 +96,7 @@ draft: false
 <h2 class="h3">Participant Information</h3> 
 <ul class="list-group spacer-small">
 <li class="list-group-item"><a href="/documents/PIS Kita evaluation - teachers DRAFT.pdf" target="_blank">Teachers and School Leaders</a> (PDF: 184 KB)</li> 
-<li class="list-group-item"><a href="/static/documents/Consent Kita-teachers leaders DRAFT.pdf" target="_blank">Teachers and School Leaders: Consent Form</a> <br /> (PDF: 131 KB)</li> 
+<li class="list-group-item"><a href="/documents/Consent Kita-teachers leaders DRAFT.pdf" target="_blank">Teachers and School Leaders: Consent Form</a> <br /> (PDF: 131 KB)</li> 
 <li class="list-group-item"><a href="/documents/PIS Kita evaluation - parents DRAFT.pdf" target="_blank">Parents and Students</a>  (PDF: 184 KB)</li> 
 <li class="list-group-item"><a href="/documents/Consent Kita-parents DRAFT.pdf" target="_blank">Parents: Consent Form</a>  (PDF: 131 KB)</li> 
 <li class="list-group-item"><a href="/documents/Consent Kita-students DRAFT.pdf" target="_blank">Students: Consent Form</a>  (PDF: 131 KB)</li>
